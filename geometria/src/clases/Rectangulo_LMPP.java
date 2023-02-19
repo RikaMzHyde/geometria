@@ -1,3 +1,4 @@
+package clases;
 
 public class Rectangulo_LMPP extends FiguraGeometrica_LMPP {
 	private double l1;

@@ -1,3 +1,4 @@
+package clases;
 
 public class Triangulo_LMPP extends FiguraGeometrica_LMPP {
 	private double lado1;

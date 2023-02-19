@@ -1,3 +1,4 @@
+package clases;
 
 public class Circulo_LMPP extends FiguraGeometrica_LMPP {
 	private double radio;
