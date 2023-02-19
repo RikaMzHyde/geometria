@@ -6,6 +6,9 @@ public class Circulo_LMPP extends FiguraGeometrica_LMPP {
 	
 	public Circulo_LMPP(double r, String tipoFigura) {
 		super(tipoFigura);
+		if(r < 0){
+			r *= -1;
+		}
 		radio = r;
 	}
 
